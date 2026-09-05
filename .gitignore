@@ -12,7 +12,9 @@ build/
 out/
 !**/src/**/out/
 
-.run/
+.run/*
+!run/config/
+!run/mods/
 
 ### Eclipse ###
 .apt_generated
