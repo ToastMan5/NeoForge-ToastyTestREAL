@@ -33,7 +33,9 @@ bin/
 .DS_Store
 
 ### Minecraft Modding ###
-run/
+run/*
+!run/mods/
+!run/mods/**
 !**/src/**/run/
 **/src/generated/**/.cache/
 repo/
